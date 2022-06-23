@@ -1,5 +1,4 @@
-# micro_task0
-## Description
+# Micro_task0 description
 This project consists of two files:
 - executable bash script *bash_script.sh*
 - executable ruby script *ruby_script.rb*
